@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="rosetta_stone_sa:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/rosetta_stone_sa_jar</output-path>
+    <root id="root">
+      <element id="archive" name="rosetta_stone_sa.jar">
+        <element id="module-output" name="rosetta_stone_sa" />
+      </element>
+    </root>
+  </artifact>
+</component>
